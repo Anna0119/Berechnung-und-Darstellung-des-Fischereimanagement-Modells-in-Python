@@ -1,0 +1,1 @@
+# Berechnung-und-Darstellung-des-Fischereimanagement-Modells-in-Python
